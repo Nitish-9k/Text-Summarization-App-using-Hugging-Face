@@ -1,5 +1,5 @@
-# Text-Summarization-App-using-Hugging-Face
-# Text Summarization API using T5-Small
+# Text-Summarization-App-using-Hugging-Face (T5)
+
 
 ## Overview
 
